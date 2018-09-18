@@ -7,4 +7,4 @@ RUN cd zod_src && make -j5 && cd ..
 RUN cd zod_launcher_src && make -j5 && cd ..
 RUN mv zod_src/* . 
 RUN mv zod_launcher_src/* .
-#CMD ["bash", "zod_launcher", "run"]
+CMD ["./zod_launcher"]
