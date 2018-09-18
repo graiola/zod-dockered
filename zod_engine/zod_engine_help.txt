@@ -1,0 +1,31 @@
+The Zod Engine
+
+To Play -
+Run the Zod Launcher and click either "Local Game" or "Nighsoft Server". This will populate all the options for a simple game of either offline play in the original 20 levels or multiplayer on the main nighsoft server.
+
+Control System -
+The control system for the Zod Engine has changed. Left click selects units while right click will send them to their target. You can use ctrl+# to give them a control group. Also you can give units waypoints by holding in shift while you are giving them targets. In order to make a unit "attack move" to their target hold in ctrl while you are giving them the target. To move around the map you can either use the arrow keys, move the mouse to the screen's edge, click the minimap or hold in the middle mouse button to use the mouse to fly around the map. While you are viewing a factory's unit production you can use the mouse wheel to cycle through choices. Also while you are viewing a factory or fort's unit production you can set it's rally point the same way you would set a unit's waypoint(s) so long as you currently do not have any units selected.
+
+Individual Keys -
+h - toggles chat history on / off
+p - shows the online player list
+f - shows current factory production information list
+m - toggles if the mouse is captured in windowed mode
+v - changes volume level
+/ - begins chat with /
+enter - begins chat
+
+Messaging and the Command System -
+To talk to other players hit enter, type in your message and then type enter again. Also the command system is used through the chat system. To use the command system type in /help into the chat. The command system is used to do things such as start and stop bots or change maps.
+
+The Main Nighsoft Server and Activations -
+In order to command all of the units on the main server your user will have to be activated. To activate your user please visit https://www.nighsoft.com/index.php?page=zod_activate
+
+Troubleshooting -
+If you are having troubles running the game you may want to try running it in windowed mode and/or with no opengl. For all other troubles please visit the forums.
+
+For anymore questions please visit the forums at http://zod.sourceforge.net/
+
+http://www.nighsoft.com
+http://zod.sourceforge.net
+freaknigh@hotmail.com
