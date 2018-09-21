@@ -9,6 +9,6 @@ This repository creates a docker image with [Z](https://en.wikipedia.org/wiki/Z_
 
 Otherwise, you can download the image from [docker-hub](https://hub.docker.com/):
 
-+ Run `docker pull serger87/zod` to download the latest image.
-+ Run `docker tag serger87/zod zod` to rename the image.
++ Run `docker pull serger87/zod-dockered` to download the latest image.
++ Run `docker tag serger87/zod-dockered zod-dockered` to rename the image.
 + Run `./run_zod.sh` to have fun :)
