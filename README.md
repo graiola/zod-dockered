@@ -12,3 +12,6 @@ Otherwise, you can download the image from [docker-hub](https://hub.docker.com/)
 + Run `docker pull serger87/zod-dockered` to download the latest image.
 + Run `docker tag serger87/zod-dockered zod-dockered` to rename the image.
 + Run `./run_zod.sh` to have fun :)
+
+
+Note: If you have troubles with graphic privileges for your docker containers you can run `xhost +local:docker`.
